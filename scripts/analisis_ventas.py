@@ -39,3 +39,4 @@ plt.ylabel("Monto")
 plt.savefig("resultados/grafico_ventas.png")
 
 print("\nGráfico generado correctamente")
+
